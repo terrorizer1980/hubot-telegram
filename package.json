@@ -29,7 +29,7 @@
   "homepage": "https://github.com/lukefx/hubot-telegram",
   "dependencies": {
     "node-telegram-bot-api": "^0.50.0",
-    "telegrambot": "^0.1.0"
+    "telegrambot": "^0.1.1"
   },
   "devDependencies": {
     "@types/hubot": "^3.3.0",
