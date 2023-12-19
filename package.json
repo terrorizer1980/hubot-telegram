@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/lukefx/hubot-telegram",
   "dependencies": {
-    "node-telegram-bot-api": "^0.50.0",
+    "node-telegram-bot-api": "^0.64.0",
     "telegrambot": "^0.1.0"
   },
   "devDependencies": {
